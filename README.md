@@ -1,6 +1,6 @@
-# A Navigation Flet App
+# A Example NavigationBar Flet App
 
-An example of a Navigation Flet App.
+An example of a NavigationBar Flet App.
 
 To run the app
 
